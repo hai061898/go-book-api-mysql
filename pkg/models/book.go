@@ -3,6 +3,7 @@ package models
 import (
 	"github.com/jinzhu/gorm"
 	"gobook/pkg/config"
+	
 )
 
 var db *gorm.DB
